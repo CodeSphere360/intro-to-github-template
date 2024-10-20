@@ -8,26 +8,28 @@ Welcome to the Introduction to GitHub Assignment! In this repository, you will l
    ```bash
    git clone https://github.com/yourusername/repositoryname.git
 
-2.Open the README.md file and:
+2.**Open the README.md file and:**
 
 Add a line that introduces yourself (e.g., "Hello, my name is [Your Name], and I’m learning GitHub.")
 
-3.Commit your changes using the following commands:
-
-4.Push your changes back to GitHub:
+3.**Commit your changes using the following commands:**
 
 git add README.md
 git commit -m "Added introduction"
-Push your changes back to GitHub:
 
-5.Submit a Pull Request back to the original repository 
+
+4.**Push your changes back to GitHub:**
+
 git push origin main
 
-6.Submit a Pull Request back to the original repository (if applicable):
+
+
+5.**Submit a Pull Request back to the original repository**
+
 
 Navigate to the original repository.
 Click the Pull Requests tab and create a new pull request.
 
-Submit the link to your repository in the classroom.
+6.**Submit the link to your repository in the classroom.**
 
 
